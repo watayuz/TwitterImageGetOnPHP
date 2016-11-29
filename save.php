@@ -4,10 +4,7 @@ header('Content-Type: text/html; charset=UTF-8');
 
 require_once('lib/TwitterAppOAuth.php');
 
-$consumer_key = 'YLLBlGZPKlwe8zfdxxNUXkBQW';
-$consumer_secret = 'wv87iOMadC54KYzQbnWe4h0hIfvTzh0uzgtClOW8kDPUVbS9ZQ';
-$access_token = '396444868-kjOp6DsjxjLVqzzJaZvm2qkGzxgpx3t0lrlf35Mg';
-$access_token_secret = 'WSEkxzyGAjUXvg9MyUru6drwXSGZ7mOy6LR3lAHAIa3Hd';
+
 
 $API = 'search/tweets';
 
